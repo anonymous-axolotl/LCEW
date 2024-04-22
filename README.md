@@ -6,7 +6,7 @@ Library for computing longest common extension in strings with wildcards.
 
 To download and build the project:
 ```bash
-git clone [https://github.com/anonymous-axolotl/LCEW.git] # Clone the repository
+git clone https://github.com/anonymous-axolotl/LCEW.git # Clone the repository
 cd LCEW
 make # build `main` executable
 ```
