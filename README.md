@@ -1,14 +1,12 @@
 # Longest common extension in strings with wildcards (LCEW)
 
 Library for computing longest common extension in strings with wildcards.
-Refer to the article by [Bathie, Charalampopoulos and Starikovskaya]
-for more details on the implementation and data structures used.
 
 ## Building the project
 
 To download and build the project:
 ```bash
-git clone https://github.com/GBathie/LCEW.git # Clone the repository
+git clone [https://github.com/GBathie/LCEW.git](https://github.com/anonymous-axolotl/LCEW.git) # Clone the repository
 cd LCEW
 make # build `main` executable
 ```
